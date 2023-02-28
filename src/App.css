@@ -1,0 +1,16 @@
+.slick-prev {
+  left: 3% !important;
+  z-index: 1;
+}
+.slick-next {
+  right: 3% !important;
+  z-index: 1;
+}
+
+.slick-slide img {
+  max-width: 420px !important;
+  max-height: 300px !important;
+  width: 100% !important;
+  background-repeat: no-repeat !important;
+  background-size: contain !important;
+}
